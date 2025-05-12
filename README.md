@@ -1,51 +1,52 @@
-# Hello there, I'm Kanishk Kulshrestha! 👋
+# 👋 Hi, I'm Kanishk Kulshrestha
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+🚀 A passionate developer and problem-solver with a love for building impactful tech.  
+🎯 Currently exploring the intersection of AI, Cybersecurity, and Systems Programming.  
+💡 I thrive in hackathons, enjoy clean code, and believe in learning by building.
 
-![Kanishk's Stats](https://github-readme-stats.vercel.app/api?username=Kanishk-Kulshrestha&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+---
 
-## 🚀 About Me
+## 🏆 Achievements
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science 
-- 📝 I do competitive programming for fun.
-- 🌐 Proud member of the [THE FORCES](https://theforces.netlify.app/).
+- 🥇 **Rank 1** – India’s Biggest XR Hackathon @ KJ Somaiya College
+- 🛡️ **All India Rank 18** – HackCTF 2024, Jaipur (Cybersecurity)
+- 🧠 **Top 12% Globally** – LeetCode Competitive Programming (1650+ rating)
+- 🏆 Winner – Multiple college-level hackathons and coding contests
+- 🛠️ Finalist – Smart India Hackathon 2024 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+---
 
-## 🌱 Currently Exploring
+## 💻 Tech Stack & Interests
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- **Languages**: C++, Python, JavaScript, C  
+- **Backend**: Flask, FastAPI, Node.js  
+- **Frontend**: HTML, CSS, React (Basics)  
+- **Tools & Tech**: Git, Docker, SQLite, REST APIs, ESP32 (IoT)  
+- **Domains**:  
+  - AI & Automation  
+  - Cybersecurity & CTFs  
+  - IoT & Embedded Systems  
+  - Full-Stack Development
 
- ## 🏆 Achievements
+---
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+## 📂 Projects Highlight
 
+- 🔐 **IoT Security System** – ESP32 + Flask-based access control system with remote dashboard and authentication.
+- 💬 **Discord Bot + Recommender** – Web-scraped content + ML-powered suggestions via JavaScript-Python hybrid system.
+- 📝 **CLI Text Editor in C** – Vim-inspired editor built from scratch.
+- 🎮 **Scotland Yard Simulation** – Graph-based multiplayer chase game with SQL-integrated logic.
 
-## 📬 Get in Touch
+> Check out my repositories to explore more cool projects!
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+---
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+## 🤝 Let's Collaborate
 
+I'm always up for:
+- Cool hackathons
+- Open-source collaborations
+- Internships in AI, Cybersecurity, or Backend
 
+**Drop a message and let’s build something awesome.**
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
