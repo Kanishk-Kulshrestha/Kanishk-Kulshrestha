@@ -35,7 +35,7 @@
 - 🔐 **IoT Security System** – ESP32 + Flask-based access control system with remote dashboard and authentication.
 - 💬 **Discord Bot + Recommender** – Web-scraped content + ML-powered suggestions via JavaScript-Python hybrid system.
 - 📝 **CLI Text Editor in C** – Vim-inspired editor built from scratch.
-- 🎮 **Scotland Yard Simulation** – Graph-based multiplayer chase game with SQL-integrated logic.
+- 🎮 **Ray Tracer** – Built a ray tracer with anti-aliasing and multiple materials.
 
 > Check out my repositories to explore more cool projects!
 
